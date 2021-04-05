@@ -32,3 +32,7 @@ Now you are ready to pass the files in the IDs folder to Twitter API and collect
 To extract the location data, we use the {place} and {full place} fields of the Twitter dataset. For each country, we need a metadata of the geographical locations to map these fields to actual city/province/state names.
 
 <img src="/Images/LocationProcess.jpg" width="450">
+
+## Licence
+
+
