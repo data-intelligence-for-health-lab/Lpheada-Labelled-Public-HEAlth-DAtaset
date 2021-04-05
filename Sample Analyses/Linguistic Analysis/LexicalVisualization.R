@@ -54,7 +54,7 @@ showtext_auto()
 viz_scaled= viz_scaled[complete.cases(viz_scaled), ]
 
 ggplot() +
-  ### This plots the average of each audio feature
+  ### This plots the average of each score
   geom_polygon(
     data = viz_scaled %>%  group_by(country, metric) %>%
       filter(!is.na(metric)) %>%
@@ -68,7 +68,7 @@ ggplot() +
     show.legend = T,
     fill = "#b51038"
   ) +
-  ### This plots the maximum of each audio feature
+  ### This plots the maximum of each score
   geom_polygon(
     data = viz_scaled %>%  group_by(country, metric) %>%
       summarise_at(c("value"), max) %>%
@@ -80,7 +80,7 @@ ggplot() +
     show.legend = T,
     fill = "#b51038"
   ) +
-  ### This plots the mimumn of each audio feature
+  ### This plots the minimumn of each score
   
   geom_polygon(
     data = viz_scaled %>%  group_by(country, metric) %>%
