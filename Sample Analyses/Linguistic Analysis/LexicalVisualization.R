@@ -32,7 +32,7 @@ theme_update(legend.position = 'none',
 countries <- c('Canada','Australia', 'United states', 'United Kingdom')
 
 
-
+#the order of the scores on the radar plot
 order <- c( 'g', 'ar','f', 'c', 'l', 'd',  'gs','t','sc')
 
 viz_scaled <- viz %>%
@@ -50,9 +50,13 @@ library(showtext)
 font_add("Arial", "/System/Library/Fonts/Supplemental/Arial.ttf")  # Use the actual file path
 showtext_auto()
 
-
+#Normalize the scores 
 viz_scaled= viz_scaled[complete.cases(viz_scaled), ]
 
+
+
+
+#The core plot snippet
 ggplot() +
   ### This plots the average of each score
   geom_polygon(
@@ -66,7 +70,7 @@ ggplot() +
     alpha = .35,
     size = .5,
     show.legend = T,
-    fill = "#b51038"
+    fill = "#b51038" 
   ) +
   ### This plots the maximum of each score
   geom_polygon(
@@ -104,7 +108,7 @@ ggplot() +
   theme_minimal() +
   labs(title = "Lexical and Linguistic characteristics of tweets per country",
        caption = 'Source: Spotify \n Visualization: mcnakhaee') +
-  ylim(0, 20.5) +
+  ylim(0, 20.5) + #This mainly scales the shape of the inner radar charts.
   facet_wrap( ~ country, ncol = 4) +
   theme(
     axis.title = element_blank(),
