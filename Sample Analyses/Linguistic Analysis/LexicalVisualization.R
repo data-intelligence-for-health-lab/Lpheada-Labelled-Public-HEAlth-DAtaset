@@ -101,7 +101,7 @@ ggplot() +
   scale_x_discrete(
     limits = order,
     labels = c(
-      ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '
+      ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ' #I removed the labels, feel free to add them again
     )
   ) +
   coord_polar(clip = 'off') +
