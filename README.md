@@ -46,3 +46,6 @@ A multicountry and fully labelled dataset for public health surveillance researc
 Scientific Data Nature [Under Review], April 2021.
 ```
 
+## More Questions
+
+Please use issues on this Github for any questions or feedback. You can also contact us at dih@ucalgary.ca for specific inquiries.  
