@@ -25,6 +25,8 @@ Now you are ready to pass the files in the IDs folder to Twitter API and collect
 
 
 
+
+
  
 
 
@@ -37,5 +39,6 @@ To extract the location data, we use the {place} and {full place} fields of the 
 
 The manuscript that presents this dataset is under review at Scientific Data Nature. Please cite our paper if you use this dataset in your project.
 
-
+` Zahra Shakeri Hossein Abad, Wendy Thompson, Gregory P Butler, Joon Lee. Physical activity, sedentary behaviour, and sleep quality on Twitter: A multicountry and fully labelled dataset for public health surveillance research. Scientific Data Nature [Under Review], April 2021.
+`
 
