@@ -33,6 +33,9 @@ To extract the location data, we use the {place} and {full place} fields of the 
 
 <img src="/Images/LocationProcess.jpg" width="450">
 
-## Licence
+## Citation
+
+The manuscript that presents this dataset is under review at Scientific Data Nature. Please cite our paper if you use this dataset in your project.
+
 
 
