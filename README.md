@@ -45,7 +45,7 @@ The manuscript that presents this dataset is under review at Scientific Data Nat
 Zahra Shakeri Hossein Abad, Wendy Thompson, Gregory P Butler, Joon Lee. 
 Physical activity, sedentary behaviour, and sleep quality on Twitter:
 A multicountry and fully labelled dataset for public health surveillance research.
-Scientific Data Nature [Under Review], April 2021.
+Nature Scientific Data [Under Review], April 2021.
 ```
 
 ## More Questions
