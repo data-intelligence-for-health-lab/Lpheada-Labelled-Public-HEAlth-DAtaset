@@ -1,4 +1,6 @@
 ## Lpheada- Labelled Public HEAlth DAtaset
+[![DOI](https://zenodo.org/badge/354686567.svg)](https://zenodo.org/badge/latestdoi/354686567)
+
 
 <img src="/Images/lpheada.jpg" width="370">
  
