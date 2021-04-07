@@ -6,7 +6,7 @@ This repository contains three six labelled datasets on digital public health su
 
 
 
-## How to Access Data
+## How to Access the Data
 
 To retrive a complete tweet object including text, data, user information, and location you will need to apply for a [developer account](https://developer.twitter.com/en/solutions/academic-research) to access Twitter APIs.
 
@@ -25,14 +25,27 @@ Now you are ready to pass the files in the IDs folder to Twitter API and collect
 
 
 
+
+
  
 
 
-## Geospatial Data
+## Geospatial Data Inference
 To extract the location data, we use the {place} and {full place} fields of the Twitter dataset. For each country, we need a metadata of the geographical locations to map these fields to actual city/province/state names.
 
 <img src="/Images/LocationProcess.jpg" width="450">
 
-## Licence
+## Citation
 
+The manuscript that presents this dataset is under review at Scientific Data Nature. Please cite our paper if you use this dataset in your project.
 
+``` 
+Zahra Shakeri Hossein Abad, Wendy Thompson, Gregory P Butler, Joon Lee. 
+Physical activity, sedentary behaviour, and sleep quality on Twitter:
+A multicountry and fully labelled dataset for public health surveillance research.
+Scientific Data Nature [Under Review], April 2021.
+```
+
+## More Questions
+
+Please use issues on this Github for any questions or feedback. You can also contact us at dih@ucalgary.ca for specific inquiries.  
