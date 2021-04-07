@@ -138,5 +138,7 @@ ggplot() +
       color = 'gray10'
     )
   )
+
+#Export the chart
 ggsave("output_viz.pdf", width=15)
 
