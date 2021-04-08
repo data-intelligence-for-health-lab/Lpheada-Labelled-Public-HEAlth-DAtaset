@@ -56,4 +56,4 @@ Nature Scientific Data [Under Review], April 2021.
 
 ## More Questions
 
-Please use issues on this Github for any questions or feedback. You can also contact us at dih@ucalgary.ca for specific inquiries.  
+Please use issues on this Github for any questions or feedback. You can also contact us at dih[@]ucalgary.ca or zshakeri[@]ucalagry.ca for specific inquiries.  
