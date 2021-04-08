@@ -25,9 +25,11 @@ To configure your twart requests, run the following script and enter the four cr
 
 Now you are ready to pass the files in the IDs folder to Twitter API and collect all the metadata associated with each ID.
 
+### Rehydrate the Dataset using TweetIDs or UersIDs
 
+To rehydrate the dataset, you can use Twarc’s hydrate command can be used to rehydrate the full dataset using unique tweet identifiers. The output will be saves as a json file. Please use the Tweet_IDs folder for this purpose.  
 
-
+`twarc hydrate PhysicalActivity-TweetIDs-Canada.txt > Canada_PA.jsonl`
 
  
 
