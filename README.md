@@ -19,9 +19,9 @@ After creating the account, install `twarc`, an API to hydrate tweetr data from 
 
 `pip install twarc`
 
-To configure your twart requests, run the following scripy and enter the four credentials explained earlier.
+To configure your twart requests, run the following script and enter the four credentials explained earlier.
 
-`twarc config`
+`twarc configure`
 
 Now you are ready to pass the files in the IDs folder to Twitter API and collect all the metadata associated with each ID.
 
