@@ -31,7 +31,11 @@ To rehydrate the dataset, you can use Twarc’s hydrate command can be used to r
 
 `twarc hydrate PhysicalActivity-TweetIDs-Canada.txt > Canada_PA.jsonl`
 
+ To only retrieve user's information (metadata), use Twarc's **user** command:
  
+ `twarc users UserIDs.txt > user_meta.jsonl`
+
+------------------------------------------------------------------
 
 
 ## Geospatial Data Inference
