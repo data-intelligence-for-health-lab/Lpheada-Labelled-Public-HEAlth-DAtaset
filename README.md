@@ -43,7 +43,7 @@ To extract the location data, we use the {place} and {full place} fields of the 
 
 <img src="/Images/LocationProcess.jpg" width="350">
 
-To infer the location data associated with each tweet, in addition to the place and full.place fields, we use user's profile information as well as the tweet text. The example provided in the above figure illustrated the overal process of this task. Please refer to LocationInference.ipynb for the script. 
+To infer the location data associated with each tweet, in addition to the `place` and `full.place` fields, we use user's profile information as well as the tweet text. The example provided in the above figure illustrated the overal process of this task. Please refer to `LocationInference.ipynb` for the script. 
 
 ## Citation
 
