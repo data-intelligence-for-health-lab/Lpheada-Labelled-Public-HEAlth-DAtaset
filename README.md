@@ -47,7 +47,7 @@ To infer the location data associated with each tweet, in addition to the `place
 
 ## Citation
 
-The manuscript that presents this dataset is under review at Scientific Data Nature. Please cite our paper if you use this dataset in your project.
+The manuscript that presents this dataset is under review at Nature Scientific Data. Please cite our paper if you use this dataset in your project.
 
 ``` 
 @article {PASSDS,
