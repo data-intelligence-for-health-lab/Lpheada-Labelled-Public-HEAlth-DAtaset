@@ -49,12 +49,16 @@ To infer the location data associated with each tweet, in addition to the `place
 
 The manuscript that presents this dataset is under review at Scientific Data Nature. Please cite our paper if you use this dataset in your project.
 
-``` 
-Zahra Shakeri Hossein Abad, Wendy Thompson, Gregory P Butler, Joon Lee. 
-Physical activity, sedentary behaviour, and sleep quality on Twitter:
-A multicountry and fully labelled dataset for public health surveillance research.
-Nature Scientific Data [Under Review], April 2021.
-```
+$ 
+@article {PASSDS,
+	author = {Shakeri Hossein Abad, Zahra and Thompson, Wendy and Butler, Gregory and Lee, Joon},
+	title = {Physical activity, sedentary behaviour, and sleep on Twitter: A labelled dataset for public health research},
+	year = {2021},
+	doi = {10.1101/2021.04.13.21255449},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	journal = {medRxiv}
+}
+$
 
 ## More Questions
 
