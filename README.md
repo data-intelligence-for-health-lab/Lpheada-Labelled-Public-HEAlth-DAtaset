@@ -50,7 +50,7 @@ To infer the location data associated with each tweet, in addition to the `place
 The manuscript that presents this dataset is under review at Nature Scientific Data. Please cite our paper if you use this dataset in your project.
 
 ``` 
-@article {PASSDS,
+@incollection{PASSDS,
 	author = {Shakeri Hossein Abad, Zahra and Thompson, Wendy and Butler, Gregory and Lee, Joon},
 	title = {Physical activity, sedentary behaviour, and sleep on Twitter: A labelled dataset for public health research},
 	year = {2021},
