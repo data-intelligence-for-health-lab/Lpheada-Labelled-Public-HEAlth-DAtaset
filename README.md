@@ -34,6 +34,8 @@ To rehydrate the dataset, you can use Twarc’s hydrate command can be used to r
  To only retrieve user's information (metadata), use Twarc's **user** command:
  
  `twarc users UserIDs.txt > user_meta.jsonl`
+ 
+ #### Example
 
 ------------------------------------------------------------------
 
