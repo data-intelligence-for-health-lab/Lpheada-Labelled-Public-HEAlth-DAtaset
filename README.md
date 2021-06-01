@@ -34,6 +34,8 @@ To rehydrate the dataset, you can use Twarc’s hydrate command can be used to r
  To only retrieve user's information (metadata), use Twarc's **user** command:
  
  `twarc users UserIDs.txt > user_meta.jsonl`
+ 
+ #### Example
 
 ------------------------------------------------------------------
 
@@ -41,19 +43,23 @@ To rehydrate the dataset, you can use Twarc’s hydrate command can be used to r
 ## Geospatial Data Inference
 To extract the location data, we use the {place} and {full place} fields of the Twitter dataset. For each country, we need a metadata of the geographical locations to map these fields to actual city/province/state names.
 
-<img src="/Images/LocationProcess.jpg" width="350">
+<img src="/Images/LocationProcessU.jpg" width="650">
 
 To infer the location data associated with each tweet, in addition to the `place` and `full.place` fields, we use user's profile information as well as the tweet text. The example provided in the above figure illustrated the overal process of this task. Please refer to `LocationInference.ipynb` for the script. 
 
 ## Citation
 
-The manuscript that presents this dataset is under review at Scientific Data Nature. Please cite our paper if you use this dataset in your project.
+The manuscript that presents this dataset is under review at Nature Scientific Data. Please cite our paper if you use this dataset in your project.
 
 ``` 
-Zahra Shakeri Hossein Abad, Wendy Thompson, Gregory P Butler, Joon Lee. 
-Physical activity, sedentary behaviour, and sleep quality on Twitter:
-A multicountry and fully labelled dataset for public health surveillance research.
-Nature Scientific Data [Under Review], April 2021.
+@article{PASSDS,
+	author = {Shakeri Hossein Abad, Zahra and Thompson, Wendy and Butler, Gregory and Lee, Joon},
+	title = {Physical activity, sedentary behaviour, and sleep on Twitter: A labelled dataset for public health research},
+	year = {2021},
+	doi = {10.1101/2021.04.13.21255449},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	journal = {medRxiv}
+}
 ```
 
 ## More Questions
