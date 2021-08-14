@@ -64,4 +64,4 @@ The manuscript that presents this dataset is under review at Nature Scientific D
 
 ## More Questions
 
-Please use issues on this Github for any questions or feedback. You can also contact us at dih[@]ucalgary.ca or zshakeri[@]ucalagry.ca for specific inquiries.  
+Please use issues on this Github for any questions or feedback. You can also contact us at dih[@]ucalgary.ca or zahra_shakeri[@]hms.harvard.edu for specific inquiries.  
