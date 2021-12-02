@@ -49,19 +49,18 @@ To infer the location data associated with each tweet, in addition to the `place
 
 ## Citation
 
-The manuscript that presents this dataset is under review at Nature Scientific Data. Please cite our paper if you use this dataset in your project.
+The manuscript that presents this dataset has been accepted for publication at JMIR Public Health and Surveillance. Please cite our paper if you use this dataset in your project.
 
 ``` 
 @article{PASSDS,
 	author = {Shakeri Hossein Abad, Zahra and Thompson, Wendy and Butler, Gregory and Lee, Joon},
-	title = {Physical activity, sedentary behaviour, and sleep on Twitter: A labelled dataset for public health research},
-	year = {2021},
-	doi = {10.1101/2021.04.13.21255449},
-	publisher = {Cold Spring Harbor Laboratory Press},
-	journal = {medRxiv}
+	title = {Physical activity, sedentary behaviour, and sleep on Twitter: A multicountry and fully labelled dataset for public health surveillance research},
+	year = {forthcoming},
+	doi = {doi:10.2196/32355},
+	journal = {JMIR Public Health and Surveillance}
 }
 ```
 
 ## More Questions
 
-Please use issues on this Github for any questions or feedback. You can also contact us at dih[@]ucalgary.ca or zahra_shakeri[@]hms.harvard.edu for specific inquiries.  
+Please use issues on this Github for any questions or feedback. You can also contact us at dih[@]ucalgary.ca or joonwu.lee[@]ucalgary.ca for specific inquiries.  
