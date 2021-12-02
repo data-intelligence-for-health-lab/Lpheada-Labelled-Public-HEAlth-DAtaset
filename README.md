@@ -56,11 +56,11 @@ The manuscript that presents this dataset has been accepted for publication at J
 	author = {Shakeri Hossein Abad, Zahra and Thompson, Wendy and Butler, Gregory and Lee, Joon},
 	title = {Physical activity, sedentary behaviour, and sleep on Twitter: A multicountry and fully labelled dataset for public health surveillance research},
 	year = {forthcoming},
-	doi = {doi:10.2196/32355},
+	doi = {10.2196/32355},
 	journal = {JMIR Public Health and Surveillance}
 }
 ```
 
 ## More Questions
 
-Please use issues on this Github for any questions or feedback. You can also contact us at dih[@]ucalgary.ca or joonwu.lee[@]ucalgary.ca for specific inquiries.  
+Please use issues on this Github for any questions or feedback. You can also contact us at dih[at]ucalgary.ca or joonwu.lee[at]ucalgary.ca for specific inquiries.  
