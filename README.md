@@ -52,12 +52,15 @@ To infer the location data associated with each tweet, in addition to the `place
 The manuscript that presents this dataset has been accepted for publication at JMIR Public Health and Surveillance. Please cite our paper if you use this dataset in your project.
 
 ``` 
-@article{PASSDS,
-	author = {Shakeri Hossein Abad, Zahra and Thompson, Wendy and Butler, Gregory and Lee, Joon},
-	title = {Physical activity, sedentary behaviour, and sleep on Twitter: A multicountry and fully labelled dataset for public health surveillance research},
-	year = {forthcoming},
-	doi = {10.2196/32355},
-	journal = {JMIR Public Health and Surveillance}
+@article{abad2022physical,
+  title={Physical Activity, Sedentary Behavior, and Sleep on Twitter: Multicountry and Fully Labeled Public Data Set for Digital Public Health Surveillance Research},
+  author={Abad, Zahra Shakeri Hossein and Butler, Gregory P and Thompson, Wendy and Lee, Joon and others},
+  journal={JMIR Public Health and Surveillance},
+  volume={8},
+  number={2},
+  pages={e32355},
+  year={2022},
+  publisher={JMIR Publications Inc., Toronto, Canada}
 }
 ```
 
